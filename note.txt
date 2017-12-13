@@ -1,0 +1,6 @@
+Mac Terminal login Mysql:
+ mysql -u username -p
+Enter Password:
+
+~$ mysql -u root -p
+Enter Password:root
