@@ -1,6 +1,10 @@
-Mac Terminal login Mysql:
+1)Mac Terminal login Mysql:
  mysql -u username -p
 Enter Password:
 
 ~$ mysql -u root -p
 Enter Password:root
+
+2)Create Table
+use database
+create table syntax
